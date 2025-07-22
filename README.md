@@ -79,4 +79,5 @@ if configured sorrectly, the site will display:
 ### Conclusion
 
 This experiment successfully demonstrates how to set up **Firefox on Kali Linux** to use the **Tor network via ProxyChains4**, ensuring **anonymous, encrypted web access**. The setup is useful for **cybersecurity practitioners, penetration testers, privacy advocates**, and **researchers** who require **secure and anonymous communication**.
+
 [Back to top](#top)
