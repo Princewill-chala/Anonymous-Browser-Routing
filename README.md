@@ -2,10 +2,10 @@
 
 - [Introduction](#Introduction)
 - [Tools](#Tools)
-- [Installation](#Installing_Required_Tools)
+- [Installing_Required_Tools](#Installation)
 - [Configuration](#Configuring_ProxyChains4)
 - [Confirmation](#Verify_Anonymity)
-- ![Conclusion](#Conclusion)
+- [Conclusion](#Conclusion)
   
 
 # Anonymous-Browser-Routing
