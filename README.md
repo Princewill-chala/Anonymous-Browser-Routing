@@ -22,7 +22,7 @@ This documentation outlines the step-by-step experimental setup to achieve anony
 - Proxy Routing Tools : Tor/Proxychains4
 - Privileges : sudo/root
 ---
-### step 1: Installation
+### Installation
 ```bash
 sudo apt update
 sudo apt install tor proxychains4 -y
@@ -32,10 +32,10 @@ sudo apt install tor proxychains4 -y
 ```bash
 sudo systemctl start tor
 ```
-[Back to top](#readme)
+[Back to top](#top)
 
 ---
-### Step 3: Configuration
+### Configuration
 ```bash
 sudo nano /etyc/proxychains4.conf
 ```
@@ -67,7 +67,7 @@ proxychains4 firefox
 ![Configuration](firefox_config.png)
 
 ---
-### Step 6: Confirmation
+### Confirmation
 open Firefox and navigate to:
 ```
 http://check.torproject.org
@@ -79,4 +79,4 @@ if configured sorrectly, the site will display:
 ### Conclusion
 
 This experiment successfully demonstrates how to set up **Firefox on Kali Linux** to use the **Tor network via ProxyChains4**, ensuring **anonymous, encrypted web access**. The setup is useful for **cybersecurity practitioners, penetration testers, privacy advocates**, and **researchers** who require **secure and anonymous communication**.
-[Back to top](#readme)
+[Back to top](#top)
