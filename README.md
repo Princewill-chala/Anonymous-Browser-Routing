@@ -1,11 +1,11 @@
 ## Table of contents
 
-- ![Introduction](#Introduction)
+- [Introduction](#Introduction)
 - [Tools](#Tools)
-- ![Installation](#Installing_Required_Tools)
-- ![Configuration](#Configuring_ProxyChains4)
-- ![Confirmation](#Verify_Anonymity)
-- ![Conclusion](#Conclusion)
+- [Installation](#Installing_Required_Tools)
+- [Configuration](#Configuring_ProxyChains4)
+- [Confirmation](#Verify_Anonymity)
+- [Conclusion](#Conclusion)
   
 
 # Anonymous-Browser-Routing
