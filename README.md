@@ -25,6 +25,8 @@ sudo systemctl start tor
 ```bash
 sudo nano /etyc/proxychains4.conf
 ```
+![Privilrges](root_privileges.png)
+
 ---
 ### Edit the following lines:
 At the top,enable dynamic chaining and DNS tunneling
