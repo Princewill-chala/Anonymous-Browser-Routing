@@ -48,6 +48,8 @@ pkill firefox
 ```bash
 proxychains4 firefox
 ```
+![Configuration](firefox_config.png)
+
 ---
 ### Step 6: Verify Anonymity
 open Firefox and navigate to:
