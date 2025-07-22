@@ -2,9 +2,9 @@
 
 - [Introduction](#Introduction)
 - [Tools](#Tools)
-- [Installing_Required_Tools](#Installation)
-- [Configuration](#Configuring_ProxyChains4)
-- [Confirmation](#Verify_Anonymity)
+- [Installation](#Installation)
+- [Configuration](#Configuration)
+- [Confirmation](#Confirmation)
 - [Conclusion](#Conclusion)
   
 
@@ -20,7 +20,7 @@ This documentation outlines the step-by-step experimental setup to achieve anony
 - Proxy Routing Tools : Tor/Proxychains4
 - Privileges : sudo/root
 ---
-### step 1: Installing Required Tools
+### step 1: Installation
 ```bash
 sudo apt update
 sudo apt install tor proxychains4 -y
@@ -33,7 +33,7 @@ sudo systemctl start tor
 [Back to top](#readme)
 
 ---
-### Step 3: Configuring ProxyChains4
+### Step 3: Configuration
 ```bash
 sudo nano /etyc/proxychains4.conf
 ```
@@ -65,7 +65,7 @@ proxychains4 firefox
 ![Configuration](firefox_config.png)
 
 ---
-### Step 6: Verify Anonymity
+### Step 6: Confirmation
 open Firefox and navigate to:
 ```
 http://check.torproject.org
