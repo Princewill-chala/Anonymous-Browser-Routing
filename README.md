@@ -1,7 +1,7 @@
 ## Table of contents
 
 - ![Introduction](#Introduction)
-- ![Tools](#Tools)
+- [Tools](#Tools)
 - ![Installation](#Installing_Required_Tools)
 - ![Configuration](#Configuring_ProxyChains4)
 - ![Confirmation](#Verify_Anonymity)
