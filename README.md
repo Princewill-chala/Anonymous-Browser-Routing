@@ -1,7 +1,7 @@
 ## Table of contents
 
 - ![Introduction](#Introduction)
-- ![Tools](#Tools_&_Environment)
+- ![Tools](#Tools)
 - ![Installation](#Installing_Required_Tools)
 - ![Configuration](#Configuring_ProxyChains4)
 - ![Confirmation](#Verify_Anonymity)
@@ -14,7 +14,7 @@ Configure Tor and ProxyChains4 on Kali Linux to achieve anonymous Firefox browsi
 This documentation outlines the step-by-step experimental setup to achieve anonymous web access using Tor and ProxyChains4 on Kali Linux, with traffic routed through the Firefox browser. The goal is to mask the real IP address and enhance anonymity during penetration testing or private browsing.
 
 ---
-### Tools & Environment
+### Tools
 - Operating System : Kali Linux
 - Browser : Firefox
 - Proxy Routing Tools : Tor/Proxychains4
