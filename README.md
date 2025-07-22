@@ -1,3 +1,13 @@
+## Table of contents
+
+- ![Introduction](#Introduction)
+- ![Tools & Environment](#Tools)
+- ![Installing Required Tools](#Installation)
+- ![Configuring ProxyChains4](#Configuration)
+- ![Verify Anonymity](#Confirmation)
+- ![conclusion](#Conclusion)
+  
+
 # Anonymous-Browser-Routing
 Configure Tor and ProxyChains4 on Kali Linux to achieve anonymous Firefox browsing for cybersecurity, privacy, and ethical hacking purposes.
 # Introduction
@@ -25,7 +35,7 @@ sudo systemctl start tor
 ```bash
 sudo nano /etyc/proxychains4.conf
 ```
-![Privilrges](root_privileges.png)
+![Privileges](root_privileges.png)
 
 ---
 ### Edit the following lines:
