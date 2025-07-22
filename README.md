@@ -1,3 +1,4 @@
+<a name="top"></a>
 ## Table of contents
 
 - [Introduction](#Introduction)
@@ -6,7 +7,7 @@
 - [Configuration](#Configuration)
 - [Confirmation](#Confirmation)
 - [Conclusion](#Conclusion)
-- [Back to top](#Back-to-top)
+- [Back to top](#top)
   
 
 # Anonymous-Browser-Routing
