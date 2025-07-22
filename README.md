@@ -56,7 +56,7 @@ http://check.torproject.org
 ```
 if configured sorrectly, the site will display:
 >"Congratulations. This Browser is configured to use Tor."
-[Successful](congratulations.png)
+![Successful.png](congratulations.png)
 ---
 ### Conclusion
 
