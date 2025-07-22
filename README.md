@@ -6,6 +6,7 @@
 - [Configuration](#Configuration)
 - [Confirmation](#Confirmation)
 - [Conclusion](#Conclusion)
+- [Back to top](#Back-to-top)
   
 
 # Anonymous-Browser-Routing
