@@ -17,10 +17,10 @@ This documentation outlines the step-by-step experimental setup to achieve anony
 
 ---
 ### Tools
-- ***Operating System*** : Kali Linux
-- ***Browser*** : Firefox
-- ***Proxy Routing Tools*** : Tor/Proxychains4
-- ***Privileges*** : sudo/root
+- Operating System : ***Kali Linux***
+- Browser : ***Firefox***
+- Proxy Routing Tools : ***Tor/Proxychains4***
+- Privileges : ***sudo/root***
 ---
 ### Installation
 ```bash
