@@ -37,7 +37,7 @@ sudo systemctl start tor
 ---
 ### Configuration
 ```bash
-sudo nano /etyc/proxychains4.conf
+sudo nano /etc/proxychains4.conf
 ```
 ![Privileges](root_privileges.png)
 
