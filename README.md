@@ -1,7 +1,6 @@
 ![Kali_Over_Tor](Kali_Over_Tor2.png)
 <a name="top"></a>
 ## Table of contents
-
 - [Introduction](#Introduction)
 - [Tools](#Tools)
 - [Installation](#Installation)
@@ -10,7 +9,6 @@
 - [Conclusion](#Conclusion)
 - [Back to top](#top)
   
-
 # Anonymous-Browser-Routing
 Configure Tor and ProxyChains4 on Kali Linux to achieve anonymous Firefox browsing for cybersecurity, privacy, and ethical hacking purposes.
 # Introduction
