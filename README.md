@@ -1,4 +1,4 @@
-![Kali_Over_Tor](Kali_Over_Tor2.png)
+![Kali_Over_Tor](Kali_Over_Tor.png)
 <a name="top"></a>
 ## Table of contents
 - [Introduction](#Introduction)
